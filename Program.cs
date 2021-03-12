@@ -14,6 +14,20 @@ namespace WAD._10888.APP
 
         public static void Main(string[] args)
         {
+            var user1 = new LibraryUser("Jonh", "Smith", "jonny", "john2288@gmail.com", "nimagap");
+            SubscribeUser.SubscribeLibUser(user1.Email);
+            GetAllPropertiesValue.GetPropertyValues(user1);
+
+
+            Console.WriteLine(user1.Email);
+            Console.WriteLine(user1.Name);
+            Console.WriteLine(user1.Surname);
+            Console.WriteLine(user1.Password);
+            Console.WriteLine(user1.Nickname);
+
+
+
+
             CreateHostBuilder(args).Build().Run();
 
         }
