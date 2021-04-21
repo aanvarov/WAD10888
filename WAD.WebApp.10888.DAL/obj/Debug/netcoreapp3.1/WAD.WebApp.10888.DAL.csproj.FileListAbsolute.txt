@@ -1,0 +1,12 @@
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\bin\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.deps.json
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\bin\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.runtimeconfig.json
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\bin\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.runtimeconfig.dev.json
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\bin\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.dll
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\bin\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.pdb
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\obj\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.csprojAssemblyReference.cache
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\obj\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.AssemblyInfoInputs.cache
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\obj\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.AssemblyInfo.cs
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\obj\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.csproj.CoreCompileInputs.cache
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\obj\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.dll
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\obj\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.pdb
+d:\WAD.WebApp.10888\WAD.WebApp.10888.DAL\obj\Debug\netcoreapp3.1\WAD.WebApp.10888.DAL.genruntimeconfig.cache
